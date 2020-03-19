@@ -68,8 +68,7 @@ user_groups: []
 
 ---
 
-## Current 
-I’m a PhD candidate at the University of Waterloo in Systems Design Engineering under Alex Wong. Currently working on on unsupervised learning of disentangled representations. 
+## Current in Systems Design Engineering supervised by Alexander Wong. Currently working on on unsupervised learning of disentangled representations. 
 
 Recently did an internship at Shell Street labs using deep learning for finance, and still have some leftover interest in economics.
 
