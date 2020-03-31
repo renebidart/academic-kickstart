@@ -18,7 +18,7 @@ organizations:
   url: "https://uwaterloo.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate at University of Waterloo desearching deep learning
+bio: PhD candidate at University of Waterloo - Deep Learning
 
 interests:
 - Deep Learning
@@ -32,7 +32,7 @@ education:
   - course: Master's Statistics
     institution: University of Waterloo
     year: 2017
-  - course: BSc in Math/Economics
+  - course: BMath in Math/Economics
     institution: Carleton University
     year: 2015
 
@@ -69,17 +69,15 @@ user_groups: []
 ---
 
 ## Today 
-PhD Candidate in Systems Design Engineering supervised by Alexander Wong. Currently working on on unsupervised learning of disentangled representations. 
-
-Recently did an internship at Shell Street labs using deep learning for finance, and still have some leftover interest in economics.
-
+PhD Candidate in Systems Design Engineering supervised by Alexander Wong. Working on on unsupervised learning. 
 
 ## Future 
 I’ll be working as an applied research scientist at Amazon in Vancouver this summer.
 
-
 ## Background
 math -> economics -> statistics -> medical imaging -> deep learning
+
+Recently did internship at Shell Street labs using deep learning for finance, and still have some leftover interest in economics.
 
 During Master’s in Statistics I worked on deep learning for cancerous cell detection, and presented it at SPIE medical imaging conference. I started my PhD on this topic before realizing that algorithms weren’t the bottleneck in here. 
 

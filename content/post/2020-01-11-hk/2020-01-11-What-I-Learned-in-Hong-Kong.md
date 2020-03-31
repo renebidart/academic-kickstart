@@ -1,9 +1,8 @@
-neyman-paper---
+---
 author: Rene Bidart
 date: "2020-01-11T00:00:00Z"
 title: What I Learned in Hong Kong
 ---
-## 香港被和谐 
 I spent the last few months interning at Shell Street Labs in Hong Kong (September-December 2020), and this opened my eyes to the mess that is media, propaganda, and group identity.  
 
 
@@ -40,7 +39,7 @@ I think we're designed to not be open minded. Why do Chinese people will reflexi
 
 At first I thought there was something special about their government's propaganda, that they will not only make someone believe something, but also to consistently be vocal about it. But this isn't right, this is something that happens to us all.
 
-I think we have a natural defence mechanism to preserve our religion, so whenever we notice a threat (consciously or unconsciously), we attack it. It is similar to why people are so quick to insult Trump, or anything that reminds them people have different opinions. Chinese people on some level know that a' preference for Hong Kong over carefully designed Shenzhen in spite of all its problems is an attack on their government, the same way the fact the existence of Trump as president is a constant attack on progressive views.
+I think we have a natural defence mechanism to preserve our religion, so whenever we notice a threat (consciously or unconsciously), we attack it. It is similar to why people are so quick to insult Trump, or anything that reminds them people have different opinions. Chinese people on some level know that a preference for Hong Kong over carefully designed Shenzhen in spite of all its problems is an attack on their government, the same way the fact the existence of Trump as president is a constant attack on progressive views.
 
 
 ### Hope?
