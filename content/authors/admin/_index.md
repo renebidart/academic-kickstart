@@ -69,7 +69,7 @@ user_groups: []
 ---
 
 ## Today 
-PhD Candidate in Systems Design Engineering supervised by Alexander Wong. Working on on unsupervised learning. 
+PhD Candidate in Systems Design Engineering supervised by Alexander Wong. Working on unsupervised learning. 
 
 ## Future 
 I’ll be working as an applied research scientist at Amazon in Vancouver this summer.
