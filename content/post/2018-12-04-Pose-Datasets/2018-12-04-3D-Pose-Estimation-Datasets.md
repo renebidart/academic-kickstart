@@ -2,12 +2,14 @@
 author: Rene Bidart
 date: "2018-12-04T00:00:00Z"
 title: 3D Pose Estimation Datasets
+tags: [machine learning]
 ---
 ## Overview
+
 2D pose estimation has improved immensely over the past few years, partly because of wealth of data stemming from the ease of annotating any RGB video. 3D pose annotation is much more difficult because accurate 3D pose annotation requires using motion capture in indoor artificial settings.
 
 | ![mocap.jpg](../pose/mocap.jpg) |
-|:--:| 
+|:--:|
 | *Mocap requires artificial settings and unnatural clothing, as shown in the [Max Plank](https://ps.is.tuebingen.mpg.de/pages/motion-capture) lab* |
 
 Ground truth vicon datasets can be augmented with synthesized poses using different body shapes, background, etc. but still are limited by the original collected data. Alternatively, synthetic datasets can be used to increase variety. In addition, some use RGB cameras and auxiliary measurement to estimate 3D poses in the wild.
