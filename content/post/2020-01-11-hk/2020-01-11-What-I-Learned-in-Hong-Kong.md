@@ -3,7 +3,7 @@ author: Rene Bidart
 date: "2020-01-11T00:00:00Z"
 title: What I Learned in Hong Kong
 ---
-I spent the last few months interning at Shell Street Labs in Hong Kong (September-December 2020), and this opened my eyes to the mess that is media, propaganda, and group identity.  
+I spent the last few months interning at Shell Street Labs in Hong Kong (September-December 2019), and this opened my eyes to the mess that is media, propaganda, and group identity.  
 
 
 ### Media Bullshit

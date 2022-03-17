@@ -18,7 +18,7 @@ organizations:
   url: "https://uwaterloo.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate at University of Waterloo - Deep Learning
+bio: PhD candidate at University of Waterloo studying Machine Learning
 
 interests:
 - Deep Learning
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Deep Learning
+  - course: PhD in Machine Learning
     institution: University of Waterloo
-    year: current
+    year: 2022
   - course: Master's Statistics
     institution: University of Waterloo
     year: 2017
@@ -68,17 +68,13 @@ user_groups: []
 
 ---
 
-## Today 
-PhD Candidate in Systems Design Engineering supervised by Alexander Wong. Working on unsupervised learning. 
+I'm a PhD Candidate in Systems Design Engineering at the University of Waterloo. I've been researching efficiency in neural networks with Alexander Wong as my supervisor.
 
-## Future 
-I’ll be working as an applied research scientist at Amazon in Vancouver this summer.
+During my PhD I've done a few internships, working at AWS on efficient text classification and churn prediction, and at Shell Street Labs (BFAM Partners) on volatility surface modelling. While my PhD originally was focused on medical imaging, I found that algorithmic improvement was not the bottleneck in this field, so moved to more general deep learning research.
 
-## Background
-math -> economics -> statistics -> medical imaging -> deep learning
+During my Master’s in Statistics I worked on deep learning for cancerous cell detection, and presented it at SPIE medical imaging conference.
 
-Recently did internship at Shell Street labs using deep learning for finance, and still have some leftover interest in economics.
+In undergrad I studied Math and Economics at Carleton University, and after graduating worked at the Bank of Canada for a year on oversight of financial market infrastructure.
 
-During Master’s in Statistics I worked on deep learning for cancerous cell detection, and presented it at SPIE medical imaging conference. I started my PhD on this topic before realizing that algorithms weren’t the bottleneck in here. 
+<!-- math -> economics -> statistics -> medical imaging -> deep learning -->
 
-In undergrad I studied math and economics at Carleton University, and after graduating worked at the Bank of Canada for a year, on oversight of financial market infrastructure. Between that and the university courses I became fed up with economics, and switched to something more practical.
