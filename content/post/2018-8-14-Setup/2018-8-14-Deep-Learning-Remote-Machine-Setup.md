@@ -2,6 +2,7 @@
 author: Rene Bidart
 date: "2018-08-14T00:00:00Z"
 title: Deep Learning Remote Setup
+draft: true
 ---
 
 ## Basic Set Up

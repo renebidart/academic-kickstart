@@ -3,6 +3,9 @@
 * Edit stuff in the **content** folder. **Public** is just generated based on this. Editing public directly will create a mess because the auto generation will just happen again from the **content**.
 
 
+https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/
+https://matteocourthoud.github.io/post/website/
+https://kieranhealy.org/
 
 
 
