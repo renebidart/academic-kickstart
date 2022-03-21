@@ -1,3 +1,27 @@
+# How to make this shit work?
+
+* Edit stuff in the **content** folder. **Public** is just generated based on this. Editing public directly will create a mess because the auto generation will just happen again from the **content**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
