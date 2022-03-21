@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Machine Learning
+  - course: PhD; Systems Design Engineering
     institution: University of Waterloo
     year: 2022
-  - course: Master's Statistics
+  - course: Masters; Statistics
     institution: University of Waterloo
     year: 2017
-  - course: BMath in Math/Economics
+  - course: Undergrad; Math/Economics
     institution: Carleton University
     year: 2015
 
@@ -68,13 +68,11 @@ user_groups: []
 
 ---
 
-I'm a PhD Candidate in Systems Design Engineering at the University of Waterloo. I've been researching efficiency in neural networks with Alexander Wong as my supervisor.
+I'm a PhD Candidate in Systems Design Engineering at the University of Waterloo. I work on efficiency in neural networks and am supervised by Alexander Wong.
 
-During my PhD I've done a few internships, working at AWS on efficient text classification and churn prediction, and at Shell Street Labs (BFAM Partners) on volatility surface modelling. While my PhD originally was focused on medical imaging, I found that algorithmic improvement was not the bottleneck in this field, so moved to more general deep learning research.
+I've done a few internships, working at AWS on efficient text classification and churn prediction, and at Shell Street Labs (BFAM Partners) on volatility surface modelling. While my PhD originally was focused on medical imaging, I found that algorithmic improvement was not the bottleneck in this field, so moved to more general deep learning research.
 
-During my Master’s in Statistics I worked on deep learning for cancerous cell detection, and presented it at SPIE medical imaging conference.
-
-In undergrad I studied Math and Economics at Carleton University, and after graduating worked at the Bank of Canada for a year on oversight of financial market infrastructure.
+During my Master’s in Statistics I worked on deep learning for cancerous cell detection, and presented it at SPIE medical imaging conference. In undergrad I studied Math and Economics at Carleton University, and after graduating worked at the Bank of Canada for a year on oversight of financial market infrastructure.
 
 <!-- math -> economics -> statistics -> medical imaging -> deep learning -->
 
